@@ -12,7 +12,7 @@ Transform your $20 Cursor/Windsurf into a Devin-like experience in one minute! T
 2. For Cursor users: The `.cursorrules` file will be automatically loaded
 3. For Windsurf users: Use both `.windsurfrules` and `scratchpad.md` for similar functionality
 
-## Setup
+## Setup123
 
 1. Create Python virtual environment:
 ```bash
